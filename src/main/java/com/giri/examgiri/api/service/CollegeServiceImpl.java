@@ -1,7 +1,8 @@
 package com.giri.examgiri.api.service;
 
-import com.mycompany.myapp.domain.College;
-import com.mycompany.myapp.repository.CollegeRepository;
+
+import com.giri.examgiri.api.domain.College;
+import com.giri.examgiri.api.repository.CollegeRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
